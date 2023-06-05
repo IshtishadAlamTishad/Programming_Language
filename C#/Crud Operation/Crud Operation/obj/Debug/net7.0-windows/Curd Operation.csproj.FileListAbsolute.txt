@@ -1,0 +1,25 @@
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\Curd Operation.exe
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\Curd Operation.deps.json
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\Curd Operation.runtimeconfig.json
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\Curd Operation.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\Curd Operation.pdb
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.csproj.AssemblyReference.cache
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd_Operation.Form1.resources
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd_Operation.Properties.Resources.resources
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.csproj.GenerateResource.cache
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.AssemblyInfoInputs.cache
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.AssemblyInfo.cs
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.csproj.CoreCompileInputs.cache
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\refint\Curd Operation.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.pdb
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.genruntimeconfig.cache
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\ref\Curd Operation.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\WorkSpace\CodeBase\C#\Curd Operation\Curd Operation\obj\Debug\net7.0-windows\Curd Operation.csproj.CopyComplete
